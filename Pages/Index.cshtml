@@ -5,8 +5,10 @@
     double pi = Math.PI;
     double semiejeMenor = 5;
     double semiejeMayor = 6;
+    double altura = 3;
     double perimetro = Math.Round(pi * (semiejeMenor + semiejeMayor), 2);
     double area = Math.Round((pi * semiejeMenor * semiejeMayor), 2);
+    double volumen = Math.Round((area * altura), 2);
     string url = "https://i.ibb.co/jW4t35t/formulas-PISE1.png";
 }
 
@@ -34,9 +36,12 @@
                         <span class="fw-bold">Perímetro:</span> Una elipse con semieje menor (a) de @(semiejeMenor)cm y semieje mayor (b) de @(semiejeMayor)cm tiene un perímetro aproximado de <span class="fw-bold">@(perimetro)cm</span>.
                     </p>
                     <p class="fs-5">
-                        <span class="fw-bold">Área:</span> El área de la misma elipse es de aproximadamente <span class="fw-bold">@(area)cm²</span>.
+                        <span class="fw-bold">Área:</span> El área de la misma elipse es de aproximadamente <span class="fw-bold">@(area)cm2</span>.
                     </p>
 
+                    <p class="fs-5">
+                        <span class="fw-bold">Volumen:</span> El volumen de la misma elipse es de aproximadamente <span class="fw-bold">@(volumen)cm3</span>.
+                    </p>
                 </div>
             </div>
         </div>

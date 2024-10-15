@@ -25,3 +25,4 @@ C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\appWebcshtml\appWebcshtml\obj\D
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\appWebcshtml\appWebcshtml\obj\Debug\net8.0\ref\appWebcshtml.dll
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\appWebcshtml\appWebcshtml\obj\Debug\net8.0\appWebcshtml.RazorAssemblyInfo.cache
 C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\appWebcshtml\appWebcshtml\obj\Debug\net8.0\appWebcshtml.RazorAssemblyInfo.cs
+C:\Users\Victor Hugo\Documents\IngSoftwareUnitec\appWebcshtml\appWebcshtml\obj\Debug\net8.0\appWebcshtml.sourcelink.json
